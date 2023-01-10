@@ -11,8 +11,5 @@
 
 - 📖 My interests are: data analysis, blockchain, algorithms, mountain, photograpy
 
-- 📫 How to reach me:
-
-  <a href="https://www.linkedin.com/in/martino-simonetti/">
-     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/martino-simonetti/">
+    
