@@ -9,7 +9,7 @@
 - 💻 Bachelor's degree in Computer Science for Management (University of Bologna)
   
 
-- 📖 My interests are: data analysis and finance
+- 📖 My interests are: data analysis, blockchain, algorithms, mountain, photograpy
 
 - 📫 How to reach me:
 
