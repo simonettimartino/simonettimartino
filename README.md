@@ -11,5 +11,5 @@
 
 - 📖 My interests are: data analysis, blockchain, algorithms, mountain, photograpy
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/martino-simonetti/">
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/martino-simonetti/"> here! </a>
     
