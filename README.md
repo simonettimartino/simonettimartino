@@ -13,6 +13,6 @@
 
 - 📫 How to reach me:
 
-  <a href="www.linkedin.com/in/martino-simonetti">
+  <a href="httsp://linkedin.com/in/martino-simonetti">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
